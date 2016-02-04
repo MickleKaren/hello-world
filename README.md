@@ -1,2 +1,3 @@
 # hello-world
 Just another repository
+Dr Mickle was recently awarded a VU Post-doctoral Fellowship. She has published 19 original research articles and three book chapters. Dr Mickle has 40 conference papers at national and international scientific meetings, including the Clinical Biomechanics Award address at the 2009 International Society of Biomechanics Congress, and Invited Speaker presentations at the World Congress of Biomechanics in 2010 and 2014. Karen has attracted $1.4 million in funding, including a NHMRC Training Fellowship (2011-14), and a currently funded NHMRC Project Grant as an AI.
